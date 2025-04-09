@@ -1,0 +1,4 @@
+stremio-webos/
+├── appinfo.json
+├── index.html
+└── icon.png (optional)

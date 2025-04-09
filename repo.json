@@ -1,0 +1,18 @@
+{
+  "id": "com.wecraft.repo",
+  "name": "EduardL Repo",
+  "icon": "https://yourdomain.com/icon.png",
+  "apps": [
+    {
+      "id": "com.wecraft.stremio",
+      "name": "Stremio Web Shortcut",
+      "version": "1.0.0",
+      "icon": "https://yourdomain.com/icon.png",
+      "ipkUrl": "https://yourdomain.com/stremio-webos.ipk",
+      "type": "web",
+      "title": "Stremio Web Shortcut",
+      "description": "Launches https://web.stremio.com/ in the browser.",
+      "main": "index.html"
+    }
+  ]
+}
