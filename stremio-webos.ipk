@@ -1,4 +1,5 @@
-stremio-webos/
-├── appinfo.json
-├── index.html
-└── icon.png (optional)
+com.wecraft.stremio_1.0.0_all.ipk
+└── com.wecraft.stremio/
+    ├── appinfo.json
+    ├── index.html
+    └── icon.png (optional)
