@@ -1,0 +1,9 @@
+{
+  "id": "com.wecraft.stremio",
+  "version": "1.0.0",
+  "vendor": "EduardL",
+  "type": "web",
+  "main": "index.html",
+  "title": "Stremio Web Shortcut",
+  "icon": "icon.png"
+}
